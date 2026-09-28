@@ -4,3 +4,6 @@ scikit-learn
 scipy
 nltk
 tqdm
+pyarrow
+jupyter
+sentence-transformers
